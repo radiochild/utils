@@ -1,4 +1,4 @@
-module radiochild/utils
+module github.com/radiochild/utils
 
 go 1.18
 
